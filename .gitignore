@@ -3,3 +3,6 @@
 
 # Windows Files
 Thumbs.db
+
+# Backup files
+/skins/backup/
